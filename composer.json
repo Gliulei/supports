@@ -1,0 +1,19 @@
+{
+    "name": "liulei/supports",
+    "description": "supports library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liulei",
+            "email": "liulei4567@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Supports\\": "src/"
+        }
+    }
+}
